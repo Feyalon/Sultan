@@ -1,0 +1,423 @@
+.card-image{
+}
+
+.card-main{
+    
+}
+.card-header{
+}
+.card-button{
+}
+.card-footer{
+}
+.price{
+}
+.card-content{
+    
+}
+
+.card-admin-button{
+}
+.card-admin-button:hover{
+}
+.card-admin{
+}
+.card-admin-button a{
+
+}
+.card-header a{
+}
+.categories-root ul{
+}
+.categories-root ul li {
+}
+.active{
+}
+.categories-header h1{
+}
+.sorted{
+
+}
+.footer{
+}
+.footer a{
+}
+.footer-main{
+}
+.footer-collumns{
+}
+.footer-collumns ul{
+}
+.messengers{
+}
+.cards{
+
+}
+.col-1{
+}
+.col-2{
+
+}
+.col-3{
+
+}
+.col-4{
+}
+.col-3-price-list{
+}
+
+.searcher input{
+}
+.searcher{
+}
+.searcher .button_search{
+
+}
+.footer-main div{
+}
+.footer-main label{
+}
+.footer{
+}
+.header-top{
+}
+.adress{
+
+}
+.adress ul{
+ 
+
+}
+.adress ul li{
+ 
+}
+.nav{
+ 
+}
+.nav ul{
+}
+.nav ul li{
+}
+.nav ul li a{
+}
+.adress_text2{
+}
+.adress-gmail{
+}
+.adress_text1{
+}
+.header-down{
+}
+.logo{
+}
+.catalog{
+
+}
+  
+.searcher .material-symbols-outlined {
+}
+.searcher input{
+}
+.searcher{
+}
+.searcher .button_search{
+
+}
+
+.contact_log{
+}
+.contact_log a{
+}
+
+.contact_log-img{
+}
+.contact_log-img svg{
+}
+.number{
+}
+.time{
+}
+.pricelist{
+}
+
+.basket{
+    
+}
+.basket .material-symbols-outlined{
+}
+.firstbasket{
+}
+.secondbasket{
+    
+}
+.quantity{
+}
+.quantity button{
+}
+.quantity p{
+}
+.sort{
+}
+.sort-label{
+
+}
+.sort-popup{
+
+}
+.sort-popup ul{
+}
+.sort-popup ul li{
+}
+.sort-popup ul li:hover{
+    
+}
+.popup-active{
+}
+.sort-label{
+}
+.sortActive{
+}
+.basket-main{
+    
+}
+.basket-main-top-content{
+}
+.basket-main-top-border{
+}
+.basket-cards{
+}
+
+.basket-cards-image{
+}
+.basket-main-top-content-root-hSymbol{
+    
+}
+.basket-main-top-content-root-hSymbol h1{
+}
+.deleteBasketButton{
+}
+.deleteBasketButton span{
+}
+.basket-cards-content{
+
+}
+.basket-cards-content div{
+}
+.basket-right-content{
+}
+.price{
+}
+.basket-footer{
+}
+.basket-footer button{
+}
+.basket-footer button a{
+}
+
+@media only screen and (max-width: 800px) {
+    .content-header{
+        display: flex;
+    }
+    .content-main{
+        width: 100%;
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        font-size: 24px;
+    }
+    .card-main{
+        width: 100%;
+        height: auto;
+        align-items: center;
+    }
+    .Card-menu-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .pagination{
+        width: 100%;
+        justify-content: space-around;
+    }
+    .footer{
+        flex-direction: column;
+        height: auto;
+    }
+    header{
+        display: none;
+    }
+    .filters{
+        display: none;
+    }
+    .footer-main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+
+    }
+    .footer-main .searcher{
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 36px;
+    }
+    .footer-main .button_search{
+        margin-right: 10px;
+    }
+    .footer-collumns{
+        display: flex;
+        flex-direction: column;
+    }
+    .mobile-header{
+        display: block;
+        width: 100%;
+
+        height: auto;
+       
+    }
+    .categories-root ul{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .categories-root ul li{
+        width: 100%;
+        text-align: left;
+        margin-left: 10px;
+    }
+    .categories-root{
+        width: 100%;
+    }
+    .main-categories{
+        width: 100%;
+    }
+    .card-admin-button{
+
+    }
+    .addProduct{
+    }
+    .card-admin div{
+        display: flex;
+        align-items: center;
+    }
+    .content-headers{
+        display: none;
+    }
+    .sort{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .sort-label{
+
+    }
+    .sort-popup{
+        display: flex;
+        flex-direction: column;
+    }
+    .searcher{
+        border-radius: 0px;
+        width: 200px;
+        margin-right: 0px;
+    }
+    .searcher input{
+        background: none;
+        
+    }
+    .singlepage{
+        height: auto;
+        width: 100%;
+    }
+    .singlepage-card-product{
+        display: flex;
+        flex-direction: column;
+    }
+    .singlepage-card-product-image{
+        height: auto;
+        margin-top: 20px;
+    }
+    .basket-main{
+        display: none;
+    }
+    .mobile-basket{
+        display: flex;
+        flex-direction: column;
+    }
+    .Parameters{
+        width: 100%;
+    }
+    .Parameters .searcher{
+        width: 99%;
+        border-radius: 36px;
+        display: flex;
+        justify-content: space-between;
+        height: 50px;
+    }
+    .Parameters-price input{
+        width: 105px;
+    }
+    .Parameters .button_search{
+        margin-right: 10px;
+        width: 40px;
+        height: 40px;
+    }
+    .purschase-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .purschase-root{
+        margin-left: 0px;
+    }
+    .header-name{
+        margin-left: 0px;
+    }
+    .contact-form button{
+        display: none;
+    }
+    .mobile-button-click{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 25px;
+        border: none;
+        width: 100%;
+        
+        
+    }
+    .purschase-mobile-click{
+        width: 95%;
+        height: 45px;
+        background-color: #FFC85E;
+        border-radius: 36px;
+        border: none;
+        color: white;
+        margin-top: 10px;
+    }
+    .editor{
+        height: 45px;
+        width: 45px;
+        border-radius: 100%;
+        background-color: #FFC85E;
+        border: none;
+    }
+    .inforamation-price-footer{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 50%;
+        font-size: 24px;
+        font-weight: 600px;
+        
+    }
+    .total-price{
+        display: none;
+    }
+    .purschases-footer-header{
+        display: none;
+    }
+    .button-form{
+        display: none;
+    }
+    
+}

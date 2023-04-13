@@ -1,0 +1,153 @@
+.purschase-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contact-form{
+    display: flex;
+    flex-direction: column;
+}
+.contact-form input{
+    height: 35px;
+    width: 250px;
+    font-size: 24px;
+    outline: none;
+    border: none;
+    border-radius: 36px;
+    background-color: #EDEDED;
+
+}
+.purschases-content{
+    height: 500px;
+    overflow-y:scroll;
+    
+}
+.purschases-content-cards{
+    display: flex;
+}
+.contact-form-header{
+    display: flex;
+    width: 190px;
+    justify-content: space-ar;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.contact-form-header h1{
+    font-size: 16px;
+}
+.contact-form-header span{
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+
+}
+.contact-form p{
+    margin-top: 20px;
+}
+.contact-form button{
+    margin-top: 25px;
+    height: 45px;
+    border: none;
+    background-color: #FFC85E;
+    border-radius: 36px;
+    color: white;
+}
+.information-header{
+    display: flex;
+    width: 100%;
+    justify-content: space-ar;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.information-header h1{
+    font-size: 16px;
+}
+.information-header span{
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+
+}
+.contact-form-last{
+    box-shadow: none;
+    height: auto;
+    width: 260px;
+}
+.contact-form-last textarea{
+    height: 260px;
+    width: 300px;
+    background-color: #EDEDED;
+    border: none;
+    border-radius: 36px;
+    resize: none;
+    font-size: 20px;
+}
+.comment{
+    width: 260px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+}
+.comment p{
+    color: #111111;
+    font-weight: 600;
+}
+.information-content{
+    box-shadow: 0px 14px 39px -11px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 95px;
+    display: flex;
+    flex-direction: column;
+
+}
+.purschase-button-click{
+    margin-top: 25px;
+    height: 45px;
+    border: none;
+    width: 230px;
+    background-color: #FFC85E;
+    border-radius: 36px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purschase-button-click span{
+    margin-left: 10px;
+}
+.purschases-footer-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.header-name{
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.purschase-root{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.mobile-button-click{
+    display: none;
+}
+
+.button-form{
+    display: flex;
+}
+.editor{
+    width: 30px;
+}

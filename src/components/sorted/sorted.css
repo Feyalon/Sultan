@@ -1,0 +1,28 @@
+.sort{
+}
+.sort-label{
+
+}
+.sort-popup{
+    display: inline;
+
+}
+.sort-popup ul{
+    list-style: none;
+}
+.sort-popup ul li{
+    cursor: pointer;
+}
+.sort-popup ul li:hover{
+    background-color: silver;
+    
+}
+.popup-active{
+    background-color: silver;
+}
+.sort-label{
+    cursor: pointer;
+}
+.sortActive{
+    text-decoration: underline;
+}

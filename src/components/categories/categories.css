@@ -1,0 +1,23 @@
+.categories-root ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+.categories-root ul li {
+    width: 100px;
+    margin-left: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+.active{
+    text-decoration: underline;
+    color: royalblue;
+}
+.categories-header h1{
+    font-size: 40px;
+}
+.sorted{
+    display: flex;
+
+}

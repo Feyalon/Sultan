@@ -1,0 +1,25 @@
+.Create-new-product{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.Create-new-product input{
+    height: 45px;
+    width: 240px;
+    border-radius: 36px;
+    background-color: azure;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    border: 1px solid #111111;
+}
+.Create-new-product select{
+    margin-top: 20px;
+    height: 45px;
+    width: 240px;
+    border-radius: 36px;
+    background-color: azure;
+    border: 1px solid #111111;
+}

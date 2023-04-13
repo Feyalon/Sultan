@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "name": "Гипоаллергенный крем",
+      "category": "1",
+      "size": "250 мл",
+      "brand": "Botavikos",
+      "producedby": "Botavikos",
+      "price": "2000",
+      "code": 123310230423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1539437.jpg",
+      "id": 2
+    },
+    {
+      "name": "Востанавливающий гель для рук",
+      "category": "2",
+      "size": "6 шт.",
+      "brand": "CeraVe",
+      "producedby": "CeraVe",
+      "price": 2100,
+      "code": 123021130423,
+      "imagePath": "data:image/png;base64,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",
+      "id": 3
+    },
+    {
+      "name": "Набор для лица",
+      "category": "4",
+      "size": "5 шт.",
+      "brand": "The Organic Pharmacy",
+      "price": 2100,
+      "producedby": "Face Care",
+      "code": 12301032123,
+      "imagePath": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqVk-BZtMf7ar-qvqbSkgpPnlru1V0eMFxkf7IPcbf9iESFrl7Pp3Ue3W2fnqd3tbXcmzKvTJV2YY&usqp=CAc",
+      "id": 4
+    },
+    {
+      "name": "Увлажняющий крем для рук «Каннабис»",
+      "category": "2",
+      "size": "40 мл",
+      "brand": "Milv",
+      "producedby": "Milv",
+      "price": 10000,
+      "code": 123012320423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1745910.jpg",
+      "id": 5
+    },
+    {
+      "name": "Крем с маслом авокадо для рук «Дыня»",
+      "category": "2",
+      "size": "40.",
+      "brand": "Milv",
+      "producedby": "Milv",
+      "price": 15000,
+      "code": 123013042423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1930823.jpg",
+      "id": 6
+    },
+    {
+      "name": "Крем-парафин 'Тропический коктейль'",
+      "category": "4",
+      "size": "300 мл",
+      "brand": "Aravia Professional",
+      "producedby": "Aravia Professional",
+      "price": 2100,
+      "code": 123010210423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/2622353.jpg",
+      "id": 7
+    },
+    {
+      "name": "Крем для рук и ног 'Нежная дыня'",
+      "category": "2",
+      "size": "300 мл",
+      "brand": "In'Garden",
+      "producedby": "In'Garden",
+      "price": 25000,
+      "code": 1230112320423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/2113801.jpg",
+      "id": 8
+    },
+    {
+      "name": "Крем для рук True Romance",
+      "category": "2",
+      "size": "30 мл",
+      "brand": "EMI",
+      "producedby": "EMI",
+      "price": 3500,
+      "code": 1230123100423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/2035069.jpg",
+      "id": 10
+    },
+    {
+      "name": "Крем для тела «Арбуз»",
+      "category": "1",
+      "size": "250 мл.",
+      "brand": "Milv",
+      "producedby": "Milv",
+      "code": 1230120422133,
+      "price": 2300,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1422078.jpg",
+      "id": 11
+    },
+    {
+      "name": "Крем-хайлайтер для тела Sunlight",
+      "category": "1",
+      "size": "260 мл",
+      "brand": "Vogue Nails",
+      "producedby": "Vogue Nails",
+      "code": 123013042213,
+      "price": 2300,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/2049559.jpg",
+      "id": 12
+    },
+    {
+      "name": "Крем-масло для тела «Цитрусовая свежесть»",
+      "category": "1",
+      "size": "150 мл",
+      "brand": "Levrana",
+      "producedby": "Levrana",
+      "price": 2500,
+      "code": 1230121240423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1409510.jpg",
+      "id": 14
+    },
+    {
+      "name": "Крем для тела",
+      "category": "1",
+      "size": "120 мл",
+      "brand": "Botavikos",
+      "price": 1400,
+      "producedby": "Botavikos",
+      "code": 12301304321423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1537047.jpg",
+      "id": 15
+    },
+    {
+      "name": "Крем для тела «Ламинария и спирулина»",
+      "category": "1",
+      "size": "6 шт.",
+      "brand": "Green Mama",
+      "producedby": "Green Mama",
+      "price": 4100,
+      "code": 1230100425343,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1529883.jpg",
+      "id": 16
+    },
+    {
+      "name": "Крем для тела Avocado & Mango",
+      "category": "1",
+      "size": "200 мл",
+      "brand": "DR.SEA",
+      "producedby": "DR.SEA",
+      "price": 7000,
+      "code": 12364530120423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1540447.jpg",
+      "id": 17
+    },
+    {
+      "name": "Крем-хайлайтер для тела Golden",
+      "category": "1",
+      "size": "150 мл.",
+      "brand": "Milv",
+      "producedby": "Milv",
+      "price": 5000,
+      "code": 12301304276873,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1793649.jpg",
+      "id": 18
+    },
+    {
+      "name": "Крем для ног «Ультраувлажняющий»",
+      "category": "3",
+      "size": "75 мл.",
+      "brand": "Ceramed",
+      "producedby": "Ceramed",
+      "price": 3000,
+      "code": 1230130445423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1877489.jpg",
+      "id": 19
+    },
+    {
+      "name": "Крем-спрей Perfect Hair «15 в 1»",
+      "category": "5",
+      "size": "250 мл",
+      "brand": "OLLIN",
+      "producedby": "OLLIN",
+      "price": 2550,
+      "code": 1230130412323,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/2087811.jpg",
+      "id": 21
+    },
+    {
+      "name": "Шампунь Service Line Daily, 1000 мл",
+      "category": "5",
+      "size": "1000 мл",
+      "brand": "OLLIN",
+      "producedby": "OLLIN",
+      "price": 3600,
+      "code": 123013042423,
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1333847.jpg",
+      "id": 22
+    },
+    {
+      "name": "Крем для тела \"Лаванда\"",
+      "imagePath": "https://www.krasotkapro.ru/images/330x330/1751450.jpg",
+      "category": "1",
+      "price": "4000",
+      "brand": "Aravia",
+      "producedBy": "Aravia",
+      "size": "400 мл.",
+      "code": "1234353456",
+      "id": "23"
+    },
+    {
+      "name": "Шампунь Жумайсынба",
+      "imagePath": "https://basket-02.wb.ru/vol169/part16924/16924233/images/big/2.jpg",
+      "category": "5",
+      "price": "300",
+      "brand": "Жумайсынба",
+      "producedBy": "Жумайсынба",
+      "size": "300 мл",
+      "code": "12300430434",
+      "id": "24",
+      "producedby": "Жумайсынба"
+    }
+  ]
+}

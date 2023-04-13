@@ -1,0 +1,116 @@
+.Card-menu-content{
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    justify-content: center;
+    height: auto;
+    grid-template-rows: 700px;
+}
+.Card-menu{
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    margin-top: 40px;
+
+}
+.content-main{
+    display: grid;
+    grid-template-columns: repeat(2, 600px);
+    margin-top: 60px;
+    justify-content: center;
+    height: auto;
+}
+.filters{
+    width: 500px;
+}
+.content-headers{
+    margin-left: 120px;
+}
+.header-content{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.pagination{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+}
+.pagination button{
+    width: 90px;
+    height: 45px;
+    background-color: #ffed28;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.pagination button:hover{
+    background-color: #a19618;
+}
+.pagination p{
+    font-size: 20px;
+}
+.mobile-header{
+    display: none;
+}
+.mobile-header-top-content{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #3F4E65;
+}
+.mobile-header-top-content button{
+    height: 32px;
+    width: 32px;
+    border-radius: 100%;
+    border: none;
+    background-color: #ffed28;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
+.mobile-header-top-content button span{
+    color: white;
+}
+.mobile-header-top-content .logo{
+}
+.mobile-header-middle-content{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: 1px solid #3F4E65;
+    
+}
+.mobile-header-down-content{
+}
+.mobile-catalog{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 20px;
+}
+.openParameters{
+    background-color: #FFCA65;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mobile-header-top-content{
+    display: flex;
+}
+.mobile-header-top-content h2{
+    font-size: 32px;
+}
